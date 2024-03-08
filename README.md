@@ -5,5 +5,5 @@
 <img src="python.png" alt="python" width="333" height="333">
   <br>
   <br>
-</center>
+<center>
 <h1>no projects is uploded yet</h1>
