@@ -3,6 +3,10 @@
 <body style="background-color:powderblue;">
 <h1>python projects</h1>
 <img src="python.png" alt="python" width="333" height="333">
+  <br>
+  <br>
+  <br>
+  <br>
 <center>
 </center>
 <h3>
