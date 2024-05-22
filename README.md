@@ -7,7 +7,7 @@
   <br>
   <br>
 <h3>
-<a href = syle = "text-align = center;"="https://drive.google.com/file/d/1SfzxaZg37ofzmdYSkJt0KZCwIgE7Gdii/view?usp=drive_link">calculator</a>
+<a href = style = "text-align = left;"="https://drive.google.com/file/d/1SfzxaZg37ofzmdYSkJt0KZCwIgE7Gdii/view?usp=drive_link">calculator</a>
 <br>
 <br>
   <a href="https://drive.google.com/file/d/1DyaSutCnxzGIY4sioss35R0hh9874pio/view?usp=drive_link">autonomus driving car</a>
