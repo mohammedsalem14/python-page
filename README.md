@@ -8,7 +8,7 @@
   <br>
   <br>
   </center>
-<h3  = style = "text-align = left;>
+<h3>
 <a href ="https://drive.google.com/file/d/1SfzxaZg37ofzmdYSkJt0KZCwIgE7Gdii/view?usp=drive_link">calculator</a>
 <br>
 <br>
