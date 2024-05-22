@@ -3,7 +3,6 @@
 <body style="background-color:powderblue;">
 <h1>python projects</h1>
 <img src="python.png" alt="python" width="333" height="333">
-<center>
 </center>
 <h3>
 <a href="https://drive.google.com/file/d/1SfzxaZg37ofzmdYSkJt0KZCwIgE7Gdii/view?usp=drive_link">calculator</a>
